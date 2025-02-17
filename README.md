@@ -1,4 +1,4 @@
 # job-tracker
 
 
-THis is my first React Native App
+This is my first React Native App
